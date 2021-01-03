@@ -6,7 +6,7 @@ Author : Deepanshu Raj
 Date Created : 04-01-21 (Monday)
 </strong></pre>
 
-##### P.S : If you find this repo Useful, do give it a <b>star</b>.⭐
+#### P.S : If you find this repo Useful, do give it a <b>star</b>.⭐
 
 ## Version Control System :
 - Types :<br>
@@ -25,14 +25,14 @@ Date Created : 04-01-21 (Monday)
   
 ## Common Instructions:
 
-### 1. Creating a Git Repo
+### ✳ 1. Creating a Git Repo
 
 - <b>git init :</b> Create a new git Repository on your computer.
 - <b>git clone :</b> Copy an existing repo on your computer(from a remote repo).
 - <b>git status :</b> Status of the repo(at present).
 - <b>git clone <url> <project_name_that_you_want> :</b> Copy Project with a different Project name. 
 
-### 2. Reviewing a Repo's History
+### ✳ 2. Reviewing a Repo's History
 
 - <b>git log :</b> Log <b>[SHA , Author , Date & Message]</b> of all the commit made till present.
 - <b>git log --oneline :</b> Single-Line Log of all the commits till present.
@@ -42,7 +42,7 @@ Date Created : 04-01-21 (Monday)
 - <b>git show <first_7_chars_of_the_SHA> :</b> Displays all the details of that particular commit, whose SHA has been given. 
 - <b>git diff :</b> Display the Changes that have been made but haven't been commited yet.
 
-### 3. Adding Commits to a Repo
+### ✳ 3. Adding Commits to a Repo
 
 - <b>git add <file> :</b> Stages the file.(WD->SI) 
 - <b>git add . :</b> Stage all the modified files.
@@ -52,7 +52,7 @@ Date Created : 04-01-21 (Monday)
 
 #### {WD ~ Working Directory ; SI ~ Staging Index}
 
-### 4. Tagging, Branching & Merging
+### ✳ 4. Tagging, Branching & Merging
 
 - <b>git tag :</b> Tells us about the already present tags. 
 - <b>git tag -a <tag_name> :</b> To create an <b>Annotated Tag.</b>[with desc.] @ current commit. 
@@ -69,7 +69,7 @@ Date Created : 04-01-21 (Monday)
 - <b>git log --oneline --graph --all :</b> Show all the branches in a visual representation.
 - <b>git merge <name_of_the_branch_to_merge_in> :</b> Merge the active branch with the branch provided.
 
-### 5. Undoing Changes
+### ✳ 5. Undoing Changes
 
 - <b>git commit --amend :</b> To modify the last commit(most recent commit)
 - <b>git revert <SHA_of_the_commit> :</b> To undo the changes done in the commit with the given SHA.
