@@ -1,27 +1,20 @@
-# Version_Control_System
-Learning To Use Version Control System Efficiently
+# Version Control System
 
-<pre><strong>
-Author : Deepanshu Raj
-Date Created : 04-01-21 (Monday)
-</strong></pre>
++ **Author :** Deepanshu Raj
++ **Created On :** Jan 4, 2021 (Monday)
 
-#### P.S : If you find this repo Useful, do give it a <b>star</b>.⭐
 
 ## Version Control System :
-- Types :<br>
-      - Centralized.<br>
-      - Distributed.
-            
-           Git : Distributed Version Control System.
+         
+  **`Git`** : Distributed Version Control System.
                 
-                Features Learned :
+  Features listed in this Repo :
                       
-                  a) Creating a Git repo.
-                  b) Reviewing a Repo's History.
-                  c) Adding Commits to a Repo.
-                  d) Tagging, branching & Merging.
-                  e) Undoing Changes.
+  - Creating a Git repo.
+  - Reviewing a Repo's History.
+  - Adding Commits to a Repo.
+  - Tagging, branching & Merging.
+  - Undoing Changes.
   
 ## Common Instructions:
 
